@@ -1,0 +1,15 @@
+type StEthPool @entity {
+  id: ID!
+  cumStaked: BigInt!
+  cumUnwrapped: BigInt!
+  cumWithdrawal: BigInt!
+  Transactions: [Tx!]! @derivedFrom(field: "stEthPool")
+}
+
+type Tx @entity {
+  id: ID!
+  staked: BigInt!
+  withdrawal: BigInt!
+  time: BigInt!
+  stEthPool: StEthPool!
+}

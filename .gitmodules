@@ -1,0 +1,9 @@
+[submodule "subgrapheth"]
+	path = subgrapheth
+	url = https://github.com/theothersteven/CrossChainStaking.git
+[submodule "infralayer"]
+	path = infralayer
+	url = https://github.com/jasony123123/wormhole-algo-eth
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/nick-casa/SkynetFrontend
