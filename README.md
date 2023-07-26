@@ -4,6 +4,9 @@
 
 Welcome to corssChain, an innovative cross-chain platform built on Solana, powered by the cross-chain messaging protocol Wormhole. Our mission is to democratize yield farming by providing users with access to Ethereum's stable yield opportunities without the high gas fees. With corssChain, you can seamlessly earn Ethereum yield while benefiting from Solana's low transaction costs and high throughput.
 
+### Video demonstration
+https://vimeo.com/848869964?share=copy
+
 ## The Challenge of Cross-Chain Yield Farming
 
 Ethereum has long been the go-to platform for decentralized finance (DeFi) protocols, offering stable yield opportunities through liquidity provision and lending. However, the high gas fees on Ethereum's mainnet have created a significant barrier for users, deterring wider DeFi adoption. On the other hand, alternative blockchains like Solana offer low transaction fees and high scalability but lack the diverse yield options available on Ethereum.
